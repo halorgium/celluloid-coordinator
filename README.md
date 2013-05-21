@@ -6,4 +6,4 @@ It also allows for the router to be introduced to new workers and for old worker
 
 ### Message flow
 
-![Message flow](https://s3.amazonaws.com/f.cl.ly/items/0f0Q2g1Y1y1e2i2z0b17/Coordinator%2BRouter.png "Message flow")
+![Message flow](https://s3.amazonaws.com/f.cl.ly/items/3G1d1T1J1a2e2g2E2S1D/Coordinator%2BRouter%202.png "Message flow")
